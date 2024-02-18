@@ -1,7 +1,5 @@
-from django.db import models
-
 # Create your models here.
-# app/models.py
+
 from django.db import models
 
 class Invoice(models.Model):
